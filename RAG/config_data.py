@@ -11,6 +11,8 @@ load_dotenv(override=False)
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 md5_path = os.path.join(PROJECT_ROOT, "md5.txt")
+# 多轮对话 / 历史会话 JSON 存储路径
+history_path = os.path.join(PROJECT_ROOT, "chat_history.json")
 collection_name = "knowledge_base"
 persist_directory = os.path.join(PROJECT_ROOT, "db")
 

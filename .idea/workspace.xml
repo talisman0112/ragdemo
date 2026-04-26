@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6d8cb044-9c8e-45f9-92fd-b3e65cfe04ea" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RAG/app_file_upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/RAG/app_file_upload.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RAG/config_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/RAG/config_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RAG/knowledge_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/RAG/knowledge_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAG/rag.py" beforeDir="false" afterPath="$PROJECT_DIR$/RAG/rag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/2b4776b1-9747-4731-bdfa-fbd09f43fd42/data_level0.bin" beforeDir="false" afterPath="$PROJECT_DIR$/db/2b4776b1-9747-4731-bdfa-fbd09f43fd42/data_level0.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/2b4776b1-9747-4731-bdfa-fbd09f43fd42/length.bin" beforeDir="false" afterPath="$PROJECT_DIR$/db/2b4776b1-9747-4731-bdfa-fbd09f43fd42/length.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/chroma.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db/chroma.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.executor": "Run",
     "Python.app_file_upload.executor": "Run",
+    "Python.app_qa.executor": "Run",
     "Python.rag.executor": "Run",
     "Python.test.executor": "Run",
     "Python.vectoc_store.executor": "Run",
